@@ -1,4 +1,4 @@
-# 🔍 GitHub Profile Finder
+# 🔍 GitHub Profile Finder-improved
 
 A modern and responsive web application built using ReactJS that allows users to search and explore GitHub profiles in real-time.
 
@@ -16,6 +16,14 @@ A modern and responsive web application built using ReactJS that allows users to
 - Vite
 - CSS / Tailwind (if used)
 - GitHub REST API
+
+## 🛠️ My Improvements
+
+- Improved UI responsiveness for mobile and tablet screens
+- Fixed navbar overlap issue using proper layout spacing
+- Enhanced input/button alignment for better UX
+- Improved overall visual design and spacing consistency
+- Optimized component structure in React
 
 ## 📸 Demo
 
