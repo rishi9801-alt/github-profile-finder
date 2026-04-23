@@ -26,8 +26,8 @@ A modern and responsive web application built using ReactJS that allows users to
 - Optimized component structure in React
 
 ## 📸 Demo
-
 _Add your project screenshot or live demo link here_
+https://github-profile-finder-nfb3fbc0i-rishi9801-alts-projects.vercel.app/
 
 ## ⚙️ Installation & Setup
 
